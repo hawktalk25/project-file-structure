@@ -30,5 +30,7 @@ A calculator is a powerful tool. You can use it to do calculations such as addit
  Use the tests to drive your development 
 
 ## Project Directions
+Please run each of the tests in the tests directory, read the error message(s) if there are any, and modify the corresponding source code file (e.g., the addition.py file corresponds to the test_addition.py file) by, for example, importing the necessary modules, to pass the test. Please refer to the "Details about How to Run Tests" section above for more information on how to run tests. 
+
 
 
